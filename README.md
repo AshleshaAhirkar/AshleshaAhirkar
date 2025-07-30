@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Data Analyst | Turning Data into Decisions 💡📊</h3>
 
 <p align="center">
-  <img src="data_gif.gif" alt="Data Analyst at Work" width="400" height="280">
+  <img src="data1_gif.gif" alt="Data Analyst at Work" width="400" height="280">
 </p>
 
 
