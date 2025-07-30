@@ -2,9 +2,8 @@
 <h3 align="center">Aspiring Data Analyst | Turning Data into Decisions 💡📊</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWw1cHF3ZG9jZ2s1ZTRvbWQ3eTY3NG9rYXkybW01cmQ5eHJ0MWMwYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ieyl9zgzy4Uic/giphy.gif" alt="Female Data Analyst GIF" width="300"/>
+  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" alt="Data GIF" width="500"/>
 </p>
-
 ---
 
 🔍 **About Me**
