@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ashlesha Ahirkar</h1>
 <h3 align="center">Aspiring Data Analyst | Turning Data into Decisions 💡📊</h3>
 
-<p align="center">
-  <img src="https://easy-peasy.ai/ai-image-generator/images/animated-black-female-data-analyst-gif" alt="Female Data Analyst" width="400"/>
-</p>
+![Female Data Analyst](https://media.giphy.com/media/cNzbcjrzOj6Ig/giphy.gif)
+
 
 ---
 
