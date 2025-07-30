@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Data Analyst | Turning Data into Decisions 💡📊</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+  <img src="https://easy-peasy.ai/ai-image-generator/images/animated-black-female-data-analyst-gif" alt="Female Data Analyst" width="400"/>
 </p>
 
 ---
