@@ -36,7 +36,7 @@
 | 📉 [Stock Price Analysis](https://github.com/AshleshaAhirkar/Stock-Price-Analysis) | A Python-based data analysis project to visualize and understand stock price trends using Pandas, NumPy, Matplotlib, and Seaborn. Includes line plots, moving averages, and performance comparisons. |
 | 📱 [Mobile Sales Dashboard](https://github.com/AshleshaAhirkar/Mobile_Sales_Dashboard) | A Power BI project to analyze mobile sales performance with interactive dashboards, KPI tracking, MTD & YoY comparison, city-wise sales, brand & model analysis, and payment method insights. |
 
-
+For more projects, feel free to explore my GitHub repositories.
 ---
 
 ### 📫 Contact Me
