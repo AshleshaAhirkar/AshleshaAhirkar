@@ -27,7 +27,7 @@
 ![Statistics](https://img.shields.io/badge/Statistics-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
 ---
 
-### 📊 My Projects
+### 📊 My Best Projects
 
 | Project | Description |
 |--------|-------------|
