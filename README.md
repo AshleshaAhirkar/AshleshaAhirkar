@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashlesha Ahirkar</h1>
-<h3 align="center">Aspiring Data Analyst | Turning Data into Decisions 💡📊</h3>
+<h3 align="center">Data Analyst | Turning Data into Decisions 💡📊</h3>
 
 <!-- <p align="center">
   <img src="data1_gif.gif" alt="Data Analyst at Work" width="400" height="280">
