@@ -35,7 +35,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://ashleshaahirkar.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
 </p>
 
