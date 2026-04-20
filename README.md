@@ -25,7 +25,7 @@
 
 ---
 
-### 📫 Contact Me
+### 📫 Connect With Me
 
 <p align="left">
   <a href="mailto:ashleshaahirkar12@gmail.com" target="_blank">
