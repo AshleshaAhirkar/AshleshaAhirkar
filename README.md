@@ -1,21 +1,18 @@
 <h1 align="center">Hi 👋, I'm Ashlesha Ahirkar</h1>
 <h3 align="center">Data Analyst | Turning Data into Decisions 💡📊</h3>
 
-<!-- <p align="center">
-  <img src="data1_gif.gif" alt="Data Analyst at Work" width="400" height="280">
-</p> -->
 ---
 
-🔍 *About Me*
-- 💻 I'm passionate about exploring data to discover hidden patterns and insights  
-- 📚 Currently learning advanced data visualization and analytics tools  
-- 🧠 I believe in learning by doing — constantly working on personal projects  
-- 🌐 Actively seeking opportunities to apply my skills in real-world datasets  
+### 🔍 About Me
+- 💻 I am a Data Analyst with hands-on experience in Python, SQL, Excel, and Power BI  
+- 📊 I enjoy transforming raw data into meaningful insights through analysis and visualization  
+- 🧠 Skilled in data cleaning, exploratory data analysis (EDA), and dashboard creation  
+- 🚀 Continuously learning and working on real-world projects to strengthen my analytical skills  
+- 🌐 Actively seeking opportunities to apply data-driven approaches in solving business problems  
 
 ---
 
 ### 🛠 Skills & Tools
-
 
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -25,16 +22,7 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Statistics](https://img.shields.io/badge/Statistics-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
----
 
-### 📊 My Best Projects
-
-| Project | Description |
-|--------|-------------|
-| 📉 [Stock Price Analysis](https://github.com/AshleshaAhirkar/Stock-Price-Analysis) | A Python-based data analysis project to visualize and understand stock price trends using Pandas, NumPy, Matplotlib, and Seaborn. Includes line plots, moving averages, and performance comparisons. |
-| 📱 [Mobile Sales Dashboard](https://github.com/AshleshaAhirkar/Mobile_Sales_Dashboard) | A Power BI project to analyze mobile sales performance with interactive dashboards, KPI tracking, MTD & YoY comparison, city-wise sales, brand & model analysis, and payment method insights. |
-
-For more projects, feel free to explore my GitHub repositories.
 ---
 
 ### 📫 Contact Me
@@ -46,11 +34,13 @@ For more projects, feel free to explore my GitHub repositories.
   <a href="https://www.linkedin.com/in/ashlesha-ahirkar" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  <a href="https://ashleshaahirkar.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
+  </a>
 </p>
-
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Data+Lover+%7C+Learner+%7C+Problem+Solver;Let's+Connect+%F0%9F%91%8B" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Data+Analyst+%7C+Learner+%7C+Problem+Solver;Let's+Connect+%F0%9F%91%8B"/>
 </p>
