@@ -4,11 +4,11 @@
 ---
 
 ### 🔍 About Me
-- 💻 I am a Data Analyst with hands-on experience in Python, SQL, Excel, and Power BI  
-- 📊 I enjoy transforming raw data into meaningful insights through analysis and visualization  
-- 🧠 Skilled in data cleaning, exploratory data analysis (EDA), and dashboard creation  
-- 🚀 Continuously learning and working on real-world projects to strengthen my analytical skills  
-- 🌐 Actively seeking opportunities to apply data-driven approaches in solving business problems  
+ 💻 I am a Data Analyst with hands-on experience in Python, SQL, Excel, and Power BI  
+ 📊 I enjoy transforming raw data into meaningful insights through analysis and visualization  
+ 🧠 Skilled in data cleaning, exploratory data analysis (EDA), and dashboard creation  
+ 🚀 Continuously learning and working on real-world projects to strengthen my analytical skills  
+ 🌐 Actively seeking opportunities to apply data-driven approaches in solving business problems  
 
 ---
 
